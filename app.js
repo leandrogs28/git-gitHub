@@ -1,3 +1,7 @@
 console.log("cortei o cabelo");
 
-modificação b
+
+modificação b 
+
+modificação A
+
