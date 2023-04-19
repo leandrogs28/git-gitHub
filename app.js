@@ -1,1 +1,3 @@
-console.log("cortei o cabelo")
+console.log("cortei o cabelo");
+
+modificação b
